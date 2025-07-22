@@ -1,4 +1,3 @@
-README para o projeto ContaBanco
 Este projeto, nomeado ContaBanco, demonstra o uso de conceitos básicos de sintaxe Java para criar um programa de terminal que interage com o usuário para coletar informações bancárias e exibi-las.
 
 Visão Geral
